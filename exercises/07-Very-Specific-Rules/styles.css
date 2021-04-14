@@ -1,4 +1,12 @@
-/** Insert your code here **/
+body ul li {
+	color: red;
+}
+ol li:nth-child(2) {
+	background: greenyellow;
+}
+table tr:nth-of-type(odd) {
+	background: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
